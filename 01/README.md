@@ -1,9 +1,12 @@
 # 자바스크립트
-# CSS 가변길이
-+ Vh, vw
-+ flex 박스를 이용하여 가운데 배치
-+ 중심축 justify-centent:center;
-+ 반대축 align-items:center;
++ <script>태그사용
++내부
+  + head 태그 영역
+  + body 태그 어디든 가능
++외부
+  + src 속성 사용
 
-+ flex-direction row; (왼쪽에서 오른쪽)
-+ flex-direction:column;(위에서 아래)
+
+  ES6+
+    + 화살표함수 사용
+    + 백틱문자열 사용
