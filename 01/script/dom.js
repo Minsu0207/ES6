@@ -40,6 +40,6 @@ const show = () => {
 document.addEventListener("DOMContentLoaded", ()=>{
    //폼 숨기기
    const formSection = document.querySelector('#formSection');
-   formSection.style.display = "none" ;
+   //formSection.style.display = "none" ;
  
 });
